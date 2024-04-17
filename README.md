@@ -1,6 +1,6 @@
 There are 3 practices:
 ![image](https://github.com/minmin1223/Data-Mining-Practice/blob/main/movie_rating_data)
-1. Movie Rating Practice:\
+1. Movie Rating Practice: \
 
 The practice was based on "matrix factorization recommender systems".
 Used the model to analyze users' ratings of several movies and to predict the score each user would rate each movie.\
